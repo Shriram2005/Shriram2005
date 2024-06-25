@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriram Mange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **shrirammange12345@gmail.com**
 
