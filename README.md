@@ -17,14 +17,6 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 
 ### Get in Touch
 
-- 📧 [Email Me](mailto:youremail@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📱 [WhatsApp](https://wa.me/yourwhatsapplink)
-
-### Personal Interests
-
-When I'm not coding, you can find me exploring the latest tech trends, participating in hackathons, or enjoying a good book. I believe in continuous learning and always strive to enhance my skills and knowledge.
-
-### Quote
-
-_"The only way to do great work is to love what you do." - Steve Jobs_
+- 📧 [Email Me](mailto:shrirammange12345@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/shriram-mange)
+- 📱 [WhatsApp](https://wa.me/917821851927)
