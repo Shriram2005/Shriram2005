@@ -17,6 +17,6 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 
 ### Get in Touch
 
-- 📧 [Email Me](mailto:shrirammange12345@gmail.com)
+- 📧 [Email Me](mailto:mange.shriram@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/shriram-mange)
 - 📱 [WhatsApp](https://wa.me/917821851927)
