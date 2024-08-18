@@ -11,8 +11,8 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 ### Technical Skills
 
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS, MySQL, PHP
-- **Android Development:** Jetpack Compose, Kotlin, Java, XML, Firebase
-- **Tools:** Git, GitHub, Firebase, VS Code, Android Studio, chatGPT
+- **Android Development:** Jetpack Compose, Kotlin, Java, XML, Firebase, MVVM, Room DB
+- **Tools:** Git, GitHub, Firebase, VS Code, Android Studio, chatGPT, Canva
 - **Other:** Data Structures, OOP
 
 ### Get in Touch
@@ -20,3 +20,4 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 - 📧 [Email Me](mailto:mange.shriram@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/shriram-mange)
 - 📱 [WhatsApp](https://wa.me/917821851927)
+- 💬 [Telegram](https://t.me/Shrirammange)
