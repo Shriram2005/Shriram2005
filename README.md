@@ -21,5 +21,3 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 - 💼 [LinkedIn](https://linkedin.com/in/shriram-mange)
 - 📱 [WhatsApp](https://wa.me/917821851927)
 - 💬 [Telegram](https://t.me/Shrirammange)
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriram2005&layout=compact)
