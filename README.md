@@ -13,7 +13,7 @@ I'm a passionate and dedicated third-year Computer Science student with a strong
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS, MySQL, PHP
 - **Android Development:** Jetpack Compose, Kotlin, Java, XML, Firebase, MVVM, Room DB
 - **Tools:** Git, GitHub, Firebase, VS Code, Android Studio, chatGPT, Canva
-- **Other:** Data Structures, OOP
+- **Other:** Data Structures, OOP...
 
 ### Get in Touch
 
