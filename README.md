@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate and dedicated third-year Computer Science student with a strong foundation in web development and a growing interest in Android development. My journey in technology began with web development, where I gained substantial experience through various projects. Recently, I've been exploring the world of mobile app development, specifically with Android, and I'm excited about the endless possibilities it offers.
+I'm a passionate and dedicated third-year Computer Science student with a strong foundation in web development and a growing interest in Android development. My journey in technology began with web development, where I gained substantial experience through various projects. Recently, I've been exploring the world of mobile app development, specifically with Android, and I'm excited about the endless possibilities it offers
 
 ### Current Role
 
